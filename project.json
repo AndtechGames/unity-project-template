@@ -1,4 +1,7 @@
 {
-    "ProjectName": "My Unity Project",
-    "Author": "Andtech Games"
+    "ProductName": "My Unity Project",
+    "ProjectName": "MyUnityProject",
+    "Author": "Andtech Games",
+    "UseAndtechRegistry": true,
+    "UseOpenUPMRegistry": false
 }

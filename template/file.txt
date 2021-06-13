@@ -1,3 +1,0 @@
-This project is {{ProjectName}}
-This project is {{echo "ProjectName" | sed -r 's/\s+//g'}}
-This project is {{echo "$ProjectName" | sed -r 's/\s+//g'}}
