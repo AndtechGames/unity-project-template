@@ -18,7 +18,7 @@ Includes:
 1. Install *Boilr*. ([instructions](https://github.com/tmrts/boilr/wiki/Installation)).
 
 ## Instructions
-1. Download this repostory.
+1. Clone (or [download](https://github.com/AndtechGames/unity-templates/archive/refs/heads/main.zip)) this repostory.
 2. Install a template(s) to your local Boilr registry.
 ```
 $ boilr template save project unity-project
