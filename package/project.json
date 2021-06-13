@@ -2,5 +2,8 @@
     "ProductName": "My Unity Package",
     "ProjectName": "MyUnityPackage",
     "PackageName": "com.company.package",
-    "Author": "Andtech Games"
+    "Description": "",
+    "Author": "Andtech Games",
+    "Email": "andtechgames@gmail.com",
+    "URL": "https://github.com/andtechgames"
 }

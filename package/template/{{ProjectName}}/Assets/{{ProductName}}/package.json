@@ -1,33 +1,11 @@
 {
-	"name": "com.andtech.example",
+	"name": "{{PackageName}}",
 	"version": "0.1.0",
-	"displayName": "Example Package",
-	"description": "This is an example package.",
-	"dependencies": {
-		"com.andtech.core": "0.1.2"
-	},
-	"keywords": [
-		"andtech",
-		"utility"
-	],
+	"displayName": "{{ProductName}}",
+	"description": "{{Description}}",
 	"author": {
-		"name": "Andtech Games",
-		"email": "andtechgames@gmail.com",
-		"url": "https://github.com/AndtechGames/"
-	},
-	"license": "BSD-4-Clause",
-	"samples": [
-		{
-			"displayName": "UI",
-			"Description": "Example UI object",
-			"path": "Samples/UI"
-		}
-	],
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/AndtechGames/example.git"
-	},
-	"publishConfig": {
-		"registry": "https://npm.pkg.github.com/@AndtechGames"
+		"name": "{{Author}}",
+		"email": "{{Email}}",
+		"url": "{{URL}}"
 	}
 }
